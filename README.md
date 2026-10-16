@@ -1,5 +1,3 @@
-# Gerardo | @gejerry-tech
-
 ![Header banner displaying @gejerry-tech](https://capsule-render.vercel.app/api?type=blur&height=300&color=4C1D95&section=header&reversal=false&text=%40gejerry-tech&textBg=false&fontColor=FFFFFF&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&descSize=20&descAlign=50&descAlignY=60)
 
 ## Desarrollador Web en formación | Lógica de Programación & Visión de Negocio
